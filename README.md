@@ -6,6 +6,6 @@
   * *Become familiar.*
   * *Test out the basic tool chain required to build and run a program.*
   
-  A \"*Hellow World*\" program, which usally print \"*Hellow World*\" to the screen.
+  A \"*Hello World*\" program, which usally print \"*Hellow World*\" to the screen.
   
   By creating a \"*Hellow World*\" program, you'll also learn the basic structure of a program in C# language.
