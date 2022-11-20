@@ -1,4 +1,4 @@
-  ## **hello-world repository**
+  ## **Hello-World repository**
   
   > This repository gonna show you how to create the most basic kind of program you possibly can in C# language.
   
